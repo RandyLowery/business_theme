@@ -1,2 +1,7 @@
-# business_theme
-Custome theme for frappe
+## Business Theme
+
+General theme for frappe
+
+#### License
+
+MIT
