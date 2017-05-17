@@ -5300,7 +5300,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > li > a:focus {
   color: hsl(36, 100%, 50%);
   background-color: transparent;
-  border-bottom: 3px solid #ffa00a;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
