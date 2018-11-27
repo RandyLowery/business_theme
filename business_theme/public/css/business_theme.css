@@ -1,0 +1,71 @@
+.navbar-default {
+    background-color: #fafbfc;
+    border-color: #d1d8dd;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #1b365f;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #f9f9f9;
+    background-color: #172d4e;
+}
+
+.like-disabled-input {
+    margin-bottom: 7px;
+    min-height: 30px;
+    font-weight: bold;
+    background-color: #fafbfc;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: 0.5px solid #d1d8dd;
+}
+
+.btn-default {
+    color: inherit;
+    background-color: #f0f4f7;
+    border: 1px solid #d1d8dd;
+    background: #e6e6e6;
+    color: #1b365f;
+}
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    background-color: #c3c3c3;
+    border-color: rgba(0, 0, 0, 0);
+    color: #1b365f;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #e6e6e6;
+    background-color: transparent;
+}
+
+#navbar-breadcrumbs > li > a:hover:before, #navbar-breadcrumbs > li > a:focus:before, #navbar-breadcrumbs > li > a:active:before {
+    color: #e6e6e6;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.grid-heading-row {
+    border-bottom: 1px solid #d1d8dd;
+    background-color: #fafbfc;
+    font-weight: bold;
+    color: black;
+}
+
+.form-documents h6 {
+    margin-top: 15px;
+    border: 1px solid #d1d8dd;
+    padding: 5px;
+    background: #fafbfc;
+    text-align: center;
+}
+
+.form-links .document-link {
+    margin-bottom: 1px;
+    height: 22px;
+}
